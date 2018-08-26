@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "ex asf",
+      "email": "a@a.com",
+      "age": 4
+    },
+    {
+      "id": "2",
+      "name": "ex af",
+      "email": "as@a.com",
+      "age": 24
+    },
+    {
+      "id": "3",
+      "name": "qwe tyio",
+      "email": "ad@a.com",
+      "age": 41
+    },
+    {
+      "id": "4",
+      "name": "x asf",
+      "email": "aew@a.com",
+      "age": 34
+    }
+  ]
+}
